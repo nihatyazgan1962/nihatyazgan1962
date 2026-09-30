@@ -98,7 +98,7 @@
 
 <div align="center">
 
-**© 2024 Yazgan Bilişim — Nihat Yazgan**
+**© 2026 Yazgan Bilişim — Nihat Yazgan**
 
 *"Teknoloji ile hizmet, kalp ile kod."*
 
