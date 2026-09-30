@@ -72,7 +72,6 @@
 |-------|----------|-----------|
 | [⏰ SaatVakit](https://github.com/nihatyazgan1962/SaatVakit) | Dijital saat, namaz vakitleri, alarm | Capacitor |
 | [💰 GelirGiderTakibi](https://github.com/nihatyazgan1962/GelirGiderTakibi) | Kişisel bütçe yönetimi, PDF/Excel rapor | React Native · Expo |
-| [🌳 SoyAgaci](https://github.com/nihatyazgan1962/SoyAgaci) | Aile soyağacı, soykütüğü, Excel import/export | Capacitor |
 
 ### 🌏 Coğrafya & Eğitim Uygulamaları
 
