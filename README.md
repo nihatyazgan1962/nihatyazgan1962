@@ -71,9 +71,9 @@
 | Proje | Açıklama | Teknoloji |
 |-------|----------|-----------|
 | [⏰ SaatVakit](https://github.com/nihatyazgan1962/SaatVakit) | Dijital saat, namaz vakitleri, alarm | Capacitor |
-| [🧭 Pusulam](https://github.com/nihatyazgan1962/Pusulam) | Pusula ve kıble yönü uygulaması | Mobil |
-| [📞 Telesekreter](https://github.com/nihatyazgan1962/Telesekreter) | Telesekreter / sesli mesaj uygulaması | Mobil |
-| [🌐 Tercuman](https://github.com/nihatyazgan1962/Tercuman) | Çeviri uygulaması | Mobil |
+| [🧭 Pusulam](https://github.com/nihatyazgan1962/Pusulam) | Kıble pusulası, namaz vakitleri, zikirmatik, adım sayar ve su takibi | Native Android |
+| [📞 Telesekreter](https://github.com/nihatyazgan1962/Telesekreter) | Zamanlanmış mesaj, toplu mesaj, hatırlatma ve doğum günü takibi | Native Android (Kotlin) |
+| [🌐 Tercuman](https://github.com/nihatyazgan1962/Tercuman) | Konuşarak veya yazarak çok dilli çeviri, sesli okuma | Flutter |
 | [💰 GelirGiderTakibi](https://github.com/nihatyazgan1962/GelirGiderTakibi) | Kişisel bütçe yönetimi, PDF/Excel rapor | React Native · Expo |
 
 ### 🌏 Coğrafya & Eğitim Uygulamaları
@@ -100,7 +100,8 @@
 
 <div align="center">
 
-**© 2026 Yazgan Bilişim — Nihat Yazgan**
+**© 2026 Yazgan Bilişim**
+📧 yazganbilisim2026@gmail.com
 Last updated: 2026-10-03
 
 *"Teknoloji ile hizmet, kalp ile kod."*
