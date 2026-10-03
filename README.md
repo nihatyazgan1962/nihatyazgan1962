@@ -98,6 +98,7 @@
 <div align="center">
 
 **© 2026 Yazgan Bilişim — Nihat Yazgan**
+Last updated: 2026-10-03
 
 *"Teknoloji ile hizmet, kalp ile kod."*
 
