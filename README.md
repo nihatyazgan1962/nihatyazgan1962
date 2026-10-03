@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/nihatyazgan1962?style=for-the-badge&color=00b4d8&labelColor=0d1117)](https://github.com/nihatyazgan1962)
-[![GitHub repos](https://img.shields.io/badge/Repos-15-00b4d8?style=for-the-badge&labelColor=0d1117)](https://github.com/nihatyazgan1962?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/Repos-18-00b4d8?style=for-the-badge&labelColor=0d1117)](https://github.com/nihatyazgan1962?tab=repositories)
 
 </div>
 
@@ -71,6 +71,9 @@
 | Proje | Açıklama | Teknoloji |
 |-------|----------|-----------|
 | [⏰ SaatVakit](https://github.com/nihatyazgan1962/SaatVakit) | Dijital saat, namaz vakitleri, alarm | Capacitor |
+| [🧭 Pusulam](https://github.com/nihatyazgan1962/Pusulam) | Pusula ve kıble yönü uygulaması | Mobil |
+| [📞 Telesekreter](https://github.com/nihatyazgan1962/Telesekreter) | Telesekreter / sesli mesaj uygulaması | Mobil |
+| [🌐 Tercuman](https://github.com/nihatyazgan1962/Tercuman) | Çeviri uygulaması | Mobil |
 | [💰 GelirGiderTakibi](https://github.com/nihatyazgan1962/GelirGiderTakibi) | Kişisel bütçe yönetimi, PDF/Excel rapor | React Native · Expo |
 
 ### 🌏 Coğrafya & Eğitim Uygulamaları
